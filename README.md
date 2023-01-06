@@ -2,7 +2,7 @@
 <div align="center">
 
   <img align="center" alt="GitHub top language" src="https://img.shields.io/github/languages/top/letruxux/mcserver-status-discord-integration">
-  <img align="center" alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/letruxux/mcserver-status-discord-integration">
+  <img align="center" alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/letruxux/mcserver-status-discord-integration?color=red">
 
 </div>
 
