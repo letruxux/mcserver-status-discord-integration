@@ -2,6 +2,7 @@
 <div align="center">
 
   <img align="center" alt="GitHub top language" src="https://img.shields.io/github/languages/top/letruxux/mcserver-status-discord-integration">
+  https://img.shields.io/github/repo-size/letruxux/Premium-Pack.svg?label=Repo%20size&style=flat-square
 
 </div>
 
