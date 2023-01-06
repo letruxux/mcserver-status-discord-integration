@@ -1,5 +1,9 @@
 <h1 align="center">🌍Minecraft Server Status Discord Integration.</h1>
-<img align="center" alt="GitHub top language" src="https://img.shields.io/github/languages/top/letruxux/mcserver-status-discord-integration">
+<div align="center">
+
+  <img align="center" alt="GitHub top language" src="https://img.shields.io/github/languages/top/letruxux/mcserver-status-discord-integration">
+
+</div>
 
 # Installation
 Before using the code, edit these lines of code. If you don't know how to get the needed info, check out the guides below.:
